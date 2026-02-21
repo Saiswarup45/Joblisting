@@ -8,7 +8,7 @@ import {
   Navigate,
 } from "react-router-dom";
 import { Toaster } from "react-hot-toast";
-import LandingPage from "./pages/LandingPage/Landingpage";
+import LandingPage from "./pages/LandingPage/LandingPage";
 import SignUp from "./pages/Auth/SignUp";
 import Login from "./pages/Auth/Login";
 import JobSeekerDashboard from "./pages/JobSeeker/JobSeekerDashboard";
@@ -41,7 +41,8 @@ const App = () => {
             <Route path="/manage-job" element={<Managejob />} />
             <Route path="/applicants" element={<ApplicationViewer/>} />
             <Route path="/company-profile" element={<EmployerProfilePage/>} />
-            </Route>
+          </Route>
+            
             
 
 
