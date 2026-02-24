@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { User, Mail, Lock, Upload } from "lucide-react";
 import toast from "react-hot-toast";
-
+import API from "../../api/axios";
 const SignUp = () => {
   const navigate = useNavigate();
 
@@ -13,10 +13,9 @@ const SignUp = () => {
     password: "",
     confirmPassword: "",
     role: "",
-    image: null,
   });
 
-  const [preview, setPreview] = useState(null);
+  
   const [showPassword, setShowPassword] = useState(false);
 
   // Email validation
@@ -31,57 +30,59 @@ const SignUp = () => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  const handleImageChange = (e) => {
-    const file = e.target.files[0];
+  
 
-    if (!file) return;
+   
+ const handleSubmit = async (e) => {
+  e.preventDefault();
 
-    if (!["image/jpeg", "image/png"].includes(file.type)) {
-      toast.error("Only JPG or PNG allowed");
-      return;
-    }
+  if (!formData.name || !formData.email || !formData.password || !formData.confirmPassword || !formData.role) {
+    toast.error("All fields are required");
+    return;
+  }
 
-    if (file.size > 5 * 1024 * 1024) {
-      toast.error("Image must be less than 5MB");
-      return;
-    }
+  if (!isValidEmail(formData.email)) {
+    toast.error("Invalid email format");
+    return;
+  }
 
-    setFormData({ ...formData, image: file });
-    setPreview(URL.createObjectURL(file));
-  };
+  if (!isStrongPassword(formData.password)) {
+    toast.error("Password must be 8+ chars, include uppercase & number");
+    return;
+  }
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
+  if (formData.password !== formData.confirmPassword) {
+    toast.error("Passwords do not match");
+    return;
+  }
 
-    if (!formData.name || !formData.email || !formData.password || !formData.confirmPassword || !formData.role) {
-      toast.error("All fields are required");
-      return;
-    }
+  try {
+    const res = await API.post("register/", {
+      name: formData.name,
+      email: formData.email,
+      password: formData.password,
+      role: formData.role,
+    });
 
-    if (!isValidEmail(formData.email)) {
-      toast.error("Invalid email format");
-      return;
-    }
-
-    if (!isStrongPassword(formData.password)) {
-      toast.error("Password must be 8+ chars, include uppercase & number");
-      return;
-    }
-
-    if (formData.password !== formData.confirmPassword) {
-      toast.error("Passwords do not match");
-      return;
-    }
-
-    toast.success("Account created successfully!");
+    toast.success(res.data.message);
 
     setTimeout(() => {
       navigate("/login");
     }, 1500);
-  };
+
+  } catch (error) {
+
+    if (error.response) {
+      toast.error(error.response.data.message);
+    } else {
+      toast.error("Server error");
+    }
+
+  }
+};
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-900 via-purple-900 to-blue-900 px-6">
+    <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-indigo-900 via-purple-900 to-blue-900 px-6">
       <div className="w-full max-w-md bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-8 shadow-2xl text-white">
         <h2 className="text-3xl font-bold text-center mb-6">
           Create Account
@@ -141,37 +142,7 @@ const SignUp = () => {
             />
           </div>
 
-          {/* Profile Image */}
-          <div>
-            <label className="text-sm text-gray-300">
-              Profile Picture (Optional)
-            </label>
-
-            <div className="flex items-center gap-4 mt-2">
-              {preview ? (
-                <img
-                  src={preview}
-                  alt="preview"
-                  className="w-14 h-14 rounded-full object-cover border"
-                />
-              ) : (
-                <div className="w-14 h-14 rounded-full bg-white/20 flex items-center justify-center">
-                  <User className="w-6 h-6 text-gray-300" />
-                </div>
-              )}
-
-              <label className="flex items-center gap-2 cursor-pointer bg-white/20 px-4 py-2 rounded-lg border border-white/30">
-                <Upload className="w-4 h-4" />
-                Upload Photo
-                <input
-                  type="file"
-                  className="hidden"
-                  onChange={handleImageChange}
-                />
-              </label>
-            </div>
-          </div>
-
+          
           {/* Role Selection */}
           <div>
             <p className="text-sm text-gray-300 mb-2">I am a</p>
@@ -206,7 +177,7 @@ const SignUp = () => {
           {/* Submit */}
           <button
             type="submit"
-            className="w-full bg-gradient-to-r from-blue-600 to-purple-600 py-3 rounded-lg font-semibold shadow-lg hover:scale-105 active:scale-95 transition duration-200"
+            className="w-full bg-linear-to-r from-blue-600 to-purple-600 py-3 rounded-lg font-semibold shadow-lg hover:scale-105 active:scale-95 transition duration-200"
           >
             Create Account
           </button>
