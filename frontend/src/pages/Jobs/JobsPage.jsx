@@ -8,7 +8,7 @@ import {
   CalendarDays,
 } from "lucide-react";
 
-import jobs from "../../data/jobs.json";
+import jobs from "../../data/Jobs.json";
 import { useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 
