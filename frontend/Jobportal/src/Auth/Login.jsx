@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 import { Eye, EyeOff, Mail, Lock } from "lucide-react";
 import { useNavigate } from "react-router-dom";
-import { toast } from "react-toastify";
-import API from "../../api/axios";
+import toast from "react-hot-toast";
+import API from "../api/axios.js";
+import { useAuth } from "../context/AuthContext.jsx";
 
 const Login = () => {
-
+  const { login } = useAuth();
   const navigate = useNavigate();
 
   const [showPassword, setShowPassword] = useState(false);
@@ -41,10 +42,14 @@ const Login = () => {
 
       toast.success(res.data.message);
 
-      localStorage.setItem(
-        "user",
-        JSON.stringify(res.data.user)
-      );
+
+      login(res.data.user);
+
+
+      setFormData({
+        email: "",
+        password: "",
+      });
 
       navigate("/");
 
@@ -61,7 +66,7 @@ const Login = () => {
 
   };
 
- 
+
   return (
     <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-indigo-900 via-purple-900 to-blue-900 px-6">
       <div className="w-full max-w-md bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-8 shadow-2xl text-white">

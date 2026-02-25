@@ -1,0 +1,1852 @@
+[
+  {
+    "id": 1,
+    "title": "Backend Developer",
+    "company": "SPCL Infotech",
+    "location": "Pune",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-01-23",
+    "skills_required": [
+      "Java",
+      "AWS",
+      "HTML",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-02-20",
+    "skills_required": [
+      "Node.js",
+      "Java",
+      "Docker",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Developer",
+    "company": "Meta",
+    "location": "Hyderabad",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-20",
+    "skills_required": [
+      "SQL",
+      "React",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 4,
+    "title": "DevOps Engineer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-02-08",
+    "skills_required": [
+      "MongoDB",
+      "Kubernetes",
+      "CSS",
+      "Node.js",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 5,
+    "title": "Frontend Developer",
+    "company": "Infosys",
+    "location": "Mumbai",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-02-25",
+    "skills_required": [
+      "Java",
+      "Django",
+      "Node.js",
+      "SQL",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 6,
+    "title": "Data Analyst",
+    "company": "Netflix",
+    "location": "Bhubaneswar",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-23",
+    "skills_required": [
+      "Java",
+      "SQL",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 7,
+    "title": "Software Engineer",
+    "company": "IBM",
+    "location": "Delhi",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2025-12-29",
+    "skills_required": [
+      "React",
+      "Docker",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 8,
+    "title": "Full Stack Developer",
+    "company": "Amazon",
+    "location": "Chennai",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-01-19",
+    "skills_required": [
+      "Kubernetes",
+      "AWS",
+      "CSS",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 9,
+    "title": "DevOps Engineer",
+    "company": "IBM",
+    "location": "Mumbai",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-02-14",
+    "skills_required": [
+      "HTML",
+      "MongoDB",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 10,
+    "title": "Backend Developer",
+    "company": "Accenture",
+    "location": "Mumbai",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-02-15",
+    "skills_required": [
+      "Java",
+      "SQL",
+      "React",
+      "Kubernetes",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 11,
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "location": "Chennai",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-02-12",
+    "skills_required": [
+      "Kubernetes",
+      "AWS",
+      "Docker",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 12,
+    "title": "Data Analyst",
+    "company": "Accenture",
+    "location": "Chennai",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-25",
+    "skills_required": [
+      "AWS",
+      "Django",
+      "CSS",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 13,
+    "title": "Software Engineer",
+    "company": "Netflix",
+    "location": "Bangalore",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-02-16",
+    "skills_required": [
+      "Kubernetes",
+      "Node.js",
+      "Python",
+      "Django",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 14,
+    "title": "DevOps Engineer",
+    "company": "Accenture",
+    "location": "Delhi",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-13",
+    "skills_required": [
+      "Docker",
+      "React",
+      "SQL",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 15,
+    "title": "QA Engineer",
+    "company": "Netflix",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2025-12-27",
+    "skills_required": [
+      "React",
+      "AWS",
+      "Node.js",
+      "MongoDB",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 16,
+    "title": "Software Engineer",
+    "company": "Meta",
+    "location": "Bhubaneswar",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-01-17",
+    "skills_required": [
+      "Kubernetes",
+      "AWS",
+      "Java",
+      "Django",
+      "SQL",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 17,
+    "title": "Data Analyst",
+    "company": "TCS",
+    "location": "Mumbai",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-24",
+    "skills_required": [
+      "Docker",
+      "Kubernetes",
+      "HTML",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 18,
+    "title": "Full Stack Developer",
+    "company": "Amazon",
+    "location": "Mumbai",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-02-10",
+    "skills_required": [
+      "CSS",
+      "SQL",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 19,
+    "title": "QA Engineer",
+    "company": "Google",
+    "location": "Chennai",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-01-31",
+    "skills_required": [
+      "AWS",
+      "Docker",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Kubernetes"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 20,
+    "title": "QA Engineer",
+    "company": "IBM",
+    "location": "Chennai",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-21",
+    "skills_required": [
+      "SQL",
+      "Node.js",
+      "MongoDB",
+      "AWS",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 21,
+    "title": "UI/UX Designer",
+    "company": "Accenture",
+    "location": "Bhubaneswar",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-18",
+    "skills_required": [
+      "Node.js",
+      "Python",
+      "Django",
+      "MongoDB",
+      "React",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 22,
+    "title": "Backend Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-01-18",
+    "skills_required": [
+      "AWS",
+      "Django",
+      "React",
+      "Docker",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 23,
+    "title": "Software Engineer",
+    "company": "Meta",
+    "location": "Pune",
+    "salary": "\u20b96 LPA",
+    "posted_date": "2026-01-05",
+    "skills_required": [
+      "SQL",
+      "Python",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 24,
+    "title": "Full Stack Developer",
+    "company": "Netflix",
+    "location": "Bhubaneswar",
+    "salary": "\u20b913 LPA",
+    "posted_date": "2026-01-24",
+    "skills_required": [
+      "CSS",
+      "AWS",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 25,
+    "title": "QA Engineer",
+    "company": "Amazon",
+    "location": "Chennai",
+    "salary": "\u20b96 LPA",
+    "posted_date": "2026-02-12",
+    "skills_required": [
+      "CSS",
+      "Django",
+      "HTML",
+      "Java",
+      "Docker",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 26,
+    "title": "Frontend Developer",
+    "company": "Microsoft",
+    "location": "Mumbai",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-03",
+    "skills_required": [
+      "React",
+      "Django",
+      "MongoDB"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 27,
+    "title": "Mobile App Developer",
+    "company": "IBM",
+    "location": "Delhi",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-23",
+    "skills_required": [
+      "AWS",
+      "Docker",
+      "MongoDB",
+      "HTML",
+      "SQL",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 28,
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-02-14",
+    "skills_required": [
+      "AWS",
+      "SQL",
+      "Kubernetes"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 29,
+    "title": "Backend Developer",
+    "company": "Wipro",
+    "location": "Bhubaneswar",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-02-04",
+    "skills_required": [
+      "SQL",
+      "Node.js",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 30,
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Delhi",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-26",
+    "skills_required": [
+      "Docker",
+      "React",
+      "Java",
+      "CSS",
+      "Kubernetes",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 31,
+    "title": "DevOps Engineer",
+    "company": "Wipro",
+    "location": "Bhubaneswar",
+    "salary": "\u20b96 LPA",
+    "posted_date": "2026-01-15",
+    "skills_required": [
+      "Kubernetes",
+      "React",
+      "HTML",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 32,
+    "title": "Backend Developer",
+    "company": "Netflix",
+    "location": "Bhubaneswar",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-02-03",
+    "skills_required": [
+      "Django",
+      "AWS",
+      "SQL",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 33,
+    "title": "Backend Developer",
+    "company": "Microsoft",
+    "location": "Hyderabad",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-24",
+    "skills_required": [
+      "Node.js",
+      "SQL",
+      "Java",
+      "Python",
+      "React",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 34,
+    "title": "Software Engineer",
+    "company": "Netflix",
+    "location": "Bangalore",
+    "salary": "\u20b913 LPA",
+    "posted_date": "2026-01-15",
+    "skills_required": [
+      "SQL",
+      "AWS",
+      "Java",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 35,
+    "title": "QA Engineer",
+    "company": "Accenture",
+    "location": "Delhi",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-02-23",
+    "skills_required": [
+      "Kubernetes",
+      "Python",
+      "AWS",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 36,
+    "title": "QA Engineer",
+    "company": "Infosys",
+    "location": "Mumbai",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-02-18",
+    "skills_required": [
+      "AWS",
+      "MongoDB",
+      "Kubernetes",
+      "HTML",
+      "Django",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 37,
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "location": "Hyderabad",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-02-19",
+    "skills_required": [
+      "Java",
+      "AWS",
+      "Django",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 38,
+    "title": "Mobile App Developer",
+    "company": "Infosys",
+    "location": "Mumbai",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-02-02",
+    "skills_required": [
+      "Node.js",
+      "Docker",
+      "AWS",
+      "Kubernetes",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 39,
+    "title": "Mobile App Developer",
+    "company": "Netflix",
+    "location": "Bangalore",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-01-22",
+    "skills_required": [
+      "HTML",
+      "AWS",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 40,
+    "title": "QA Engineer",
+    "company": "Google",
+    "location": "Delhi",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-20",
+    "skills_required": [
+      "HTML",
+      "Docker",
+      "Python",
+      "CSS",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 41,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Chennai",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2025-12-27",
+    "skills_required": [
+      "Docker",
+      "CSS",
+      "React",
+      "AWS",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 42,
+    "title": "Backend Developer",
+    "company": "TCS",
+    "location": "Mumbai",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2025-12-28",
+    "skills_required": [
+      "Kubernetes",
+      "React",
+      "MongoDB",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 43,
+    "title": "Backend Developer",
+    "company": "TCS",
+    "location": "Hyderabad",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-02-12",
+    "skills_required": [
+      "MongoDB",
+      "React",
+      "AWS",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 44,
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "salary": "\u20b96 LPA",
+    "posted_date": "2026-01-14",
+    "skills_required": [
+      "Docker",
+      "MongoDB",
+      "HTML",
+      "CSS",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 45,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Hyderabad",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-02-11",
+    "skills_required": [
+      "React",
+      "Kubernetes",
+      "Python",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 46,
+    "title": "Full Stack Developer",
+    "company": "Meta",
+    "location": "Pune",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-02-06",
+    "skills_required": [
+      "Java",
+      "React",
+      "MongoDB",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 47,
+    "title": "Software Engineer",
+    "company": "Netflix",
+    "location": "Chennai",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-01-18",
+    "skills_required": [
+      "Kubernetes",
+      "React",
+      "Node.js",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 48,
+    "title": "Mobile App Developer",
+    "company": "Infosys",
+    "location": "Mumbai",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-01-17",
+    "skills_required": [
+      "React",
+      "HTML",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 49,
+    "title": "DevOps Engineer",
+    "company": "Netflix",
+    "location": "Mumbai",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-02-13",
+    "skills_required": [
+      "Node.js",
+      "Kubernetes",
+      "AWS",
+      "Python",
+      "React",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 50,
+    "title": "Frontend Developer",
+    "company": "Microsoft",
+    "location": "Delhi",
+    "salary": "\u20b96 LPA",
+    "posted_date": "2026-01-23",
+    "skills_required": [
+      "Docker",
+      "Java",
+      "Node.js",
+      "Kubernetes",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 51,
+    "title": "Data Analyst",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-01-30",
+    "skills_required": [
+      "MongoDB",
+      "Java",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 52,
+    "title": "Frontend Developer",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-16",
+    "skills_required": [
+      "Django",
+      "HTML",
+      "CSS",
+      "Python",
+      "Java",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 53,
+    "title": "UI/UX Designer",
+    "company": "Accenture",
+    "location": "Bhubaneswar",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-16",
+    "skills_required": [
+      "SQL",
+      "AWS",
+      "Python",
+      "CSS",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 54,
+    "title": "Frontend Developer",
+    "company": "Accenture",
+    "location": "Hyderabad",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-10",
+    "skills_required": [
+      "Python",
+      "Django",
+      "Java",
+      "AWS",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 55,
+    "title": "QA Engineer",
+    "company": "Meta",
+    "location": "Pune",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-04",
+    "skills_required": [
+      "MongoDB",
+      "SQL",
+      "HTML",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 56,
+    "title": "Data Analyst",
+    "company": "IBM",
+    "location": "Hyderabad",
+    "salary": "\u20b913 LPA",
+    "posted_date": "2026-02-18",
+    "skills_required": [
+      "React",
+      "HTML",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 57,
+    "title": "UI/UX Designer",
+    "company": "Meta",
+    "location": "Bhubaneswar",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2025-12-27",
+    "skills_required": [
+      "AWS",
+      "CSS",
+      "Docker",
+      "MongoDB",
+      "Kubernetes",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 58,
+    "title": "Frontend Developer",
+    "company": "Google",
+    "location": "Hyderabad",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-02-21",
+    "skills_required": [
+      "AWS",
+      "Docker",
+      "HTML",
+      "Node.js",
+      "MongoDB"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 59,
+    "title": "Frontend Developer",
+    "company": "TCS",
+    "location": "Bhubaneswar",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-09",
+    "skills_required": [
+      "Kubernetes",
+      "CSS",
+      "HTML",
+      "Python",
+      "Java",
+      "MongoDB"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 60,
+    "title": "Full Stack Developer",
+    "company": "Netflix",
+    "location": "Chennai",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-01-15",
+    "skills_required": [
+      "Java",
+      "HTML",
+      "Python",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 61,
+    "title": "Frontend Developer",
+    "company": "Amazon",
+    "location": "Bhubaneswar",
+    "salary": "\u20b913 LPA",
+    "posted_date": "2026-02-16",
+    "skills_required": [
+      "Python",
+      "Java",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 62,
+    "title": "Frontend Developer",
+    "company": "Accenture",
+    "location": "Pune",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-18",
+    "skills_required": [
+      "Node.js",
+      "Docker",
+      "Kubernetes",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 63,
+    "title": "Frontend Developer",
+    "company": "Meta",
+    "location": "Hyderabad",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-02-22",
+    "skills_required": [
+      "Kubernetes",
+      "Django",
+      "Docker",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 64,
+    "title": "DevOps Engineer",
+    "company": "Wipro",
+    "location": "Chennai",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-09",
+    "skills_required": [
+      "HTML",
+      "Docker",
+      "SQL",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 65,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Delhi",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-09",
+    "skills_required": [
+      "AWS",
+      "Java",
+      "SQL",
+      "Python",
+      "Kubernetes",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 66,
+    "title": "QA Engineer",
+    "company": "Infosys",
+    "location": "Chennai",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-02-19",
+    "skills_required": [
+      "Django",
+      "Kubernetes",
+      "MongoDB",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 67,
+    "title": "Frontend Developer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-02-02",
+    "skills_required": [
+      "Python",
+      "Node.js",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 68,
+    "title": "UI/UX Designer",
+    "company": "TCS",
+    "location": "Chennai",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-01-08",
+    "skills_required": [
+      "HTML",
+      "Python",
+      "Node.js",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 69,
+    "title": "Data Analyst",
+    "company": "Meta",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-31",
+    "skills_required": [
+      "Kubernetes",
+      "HTML",
+      "MongoDB",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 70,
+    "title": "Frontend Developer",
+    "company": "IBM",
+    "location": "Mumbai",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-01-27",
+    "skills_required": [
+      "AWS",
+      "SQL",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 71,
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-02-23",
+    "skills_required": [
+      "AWS",
+      "Python",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 72,
+    "title": "Backend Developer",
+    "company": "Meta",
+    "location": "Bhubaneswar",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-01-10",
+    "skills_required": [
+      "HTML",
+      "Node.js",
+      "MongoDB",
+      "React",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 73,
+    "title": "Frontend Developer",
+    "company": "Meta",
+    "location": "Chennai",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-19",
+    "skills_required": [
+      "React",
+      "MongoDB",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 74,
+    "title": "Backend Developer",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-01-14",
+    "skills_required": [
+      "React",
+      "Node.js",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 75,
+    "title": "Frontend Developer",
+    "company": "Netflix",
+    "location": "Bangalore",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-02-21",
+    "skills_required": [
+      "Django",
+      "SQL",
+      "Node.js",
+      "Docker",
+      "Kubernetes"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 76,
+    "title": "Frontend Developer",
+    "company": "TCS",
+    "location": "Chennai",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-01-30",
+    "skills_required": [
+      "Kubernetes",
+      "SQL",
+      "CSS",
+      "HTML",
+      "Docker",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 77,
+    "title": "Mobile App Developer",
+    "company": "Netflix",
+    "location": "Hyderabad",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-02-16",
+    "skills_required": [
+      "Node.js",
+      "SQL",
+      "Docker",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 78,
+    "title": "Mobile App Developer",
+    "company": "TCS",
+    "location": "Bangalore",
+    "salary": "\u20b96 LPA",
+    "posted_date": "2025-12-28",
+    "skills_required": [
+      "SQL",
+      "Kubernetes",
+      "HTML",
+      "React",
+      "CSS",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 79,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Bhubaneswar",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2025-12-30",
+    "skills_required": [
+      "Django",
+      "HTML",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 80,
+    "title": "QA Engineer",
+    "company": "Netflix",
+    "location": "Delhi",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-02-02",
+    "skills_required": [
+      "Django",
+      "MongoDB",
+      "HTML",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 81,
+    "title": "UI/UX Designer",
+    "company": "Netflix",
+    "location": "Pune",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-01-19",
+    "skills_required": [
+      "Django",
+      "Node.js",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 82,
+    "title": "QA Engineer",
+    "company": "IBM",
+    "location": "Bangalore",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-01-03",
+    "skills_required": [
+      "React",
+      "Docker",
+      "Django",
+      "Kubernetes",
+      "CSS",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 83,
+    "title": "DevOps Engineer",
+    "company": "Netflix",
+    "location": "Bhubaneswar",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-20",
+    "skills_required": [
+      "MongoDB",
+      "Docker",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 84,
+    "title": "QA Engineer",
+    "company": "Infosys",
+    "location": "Chennai",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-02-08",
+    "skills_required": [
+      "MongoDB",
+      "Django",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 85,
+    "title": "UI/UX Designer",
+    "company": "Infosys",
+    "location": "Pune",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-30",
+    "skills_required": [
+      "AWS",
+      "Node.js",
+      "Java",
+      "Django",
+      "Kubernetes",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 86,
+    "title": "QA Engineer",
+    "company": "Infosys",
+    "location": "Bangalore",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-22",
+    "skills_required": [
+      "Node.js",
+      "AWS",
+      "MongoDB",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 87,
+    "title": "Full Stack Developer",
+    "company": "Accenture",
+    "location": "Bangalore",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-01-08",
+    "skills_required": [
+      "Kubernetes",
+      "SQL",
+      "Java",
+      "MongoDB"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 88,
+    "title": "Backend Developer",
+    "company": "TCS",
+    "location": "Hyderabad",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-02-25",
+    "skills_required": [
+      "Java",
+      "MongoDB",
+      "SQL",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 89,
+    "title": "DevOps Engineer",
+    "company": "Infosys",
+    "location": "Chennai",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-02-06",
+    "skills_required": [
+      "Python",
+      "Java",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 90,
+    "title": "Frontend Developer",
+    "company": "Accenture",
+    "location": "Mumbai",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-02-17",
+    "skills_required": [
+      "HTML",
+      "Django",
+      "React",
+      "Docker",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 91,
+    "title": "Frontend Developer",
+    "company": "Infosys",
+    "location": "Chennai",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-02-25",
+    "skills_required": [
+      "Kubernetes",
+      "SQL",
+      "Java",
+      "HTML",
+      "Node.js",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 92,
+    "title": "QA Engineer",
+    "company": "Amazon",
+    "location": "Mumbai",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-01-04",
+    "skills_required": [
+      "Java",
+      "AWS",
+      "Node.js",
+      "Kubernetes",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 93,
+    "title": "DevOps Engineer",
+    "company": "Wipro",
+    "location": "Hyderabad",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-01-17",
+    "skills_required": [
+      "Docker",
+      "MongoDB",
+      "SQL",
+      "Kubernetes",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 94,
+    "title": "Mobile App Developer",
+    "company": "Google",
+    "location": "Pune",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-01-07",
+    "skills_required": [
+      "HTML",
+      "AWS",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 95,
+    "title": "Frontend Developer",
+    "company": "IBM",
+    "location": "Chennai",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-02-08",
+    "skills_required": [
+      "HTML",
+      "Docker",
+      "Node.js",
+      "SQL",
+      "MongoDB",
+      "Java"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 96,
+    "title": "QA Engineer",
+    "company": "Accenture",
+    "location": "Delhi",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2026-01-17",
+    "skills_required": [
+      "AWS",
+      "HTML",
+      "Java",
+      "MongoDB",
+      "Python",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 97,
+    "title": "Full Stack Developer",
+    "company": "Amazon",
+    "location": "Bhubaneswar",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-02-08",
+    "skills_required": [
+      "SQL",
+      "Django",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 98,
+    "title": "Full Stack Developer",
+    "company": "Google",
+    "location": "Bhubaneswar",
+    "salary": "\u20b94 LPA",
+    "posted_date": "2026-02-22",
+    "skills_required": [
+      "CSS",
+      "Kubernetes",
+      "AWS",
+      "MongoDB",
+      "Django",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 99,
+    "title": "Mobile App Developer",
+    "company": "Meta",
+    "location": "Pune",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2026-01-04",
+    "skills_required": [
+      "MongoDB",
+      "AWS",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 100,
+    "title": "DevOps Engineer",
+    "company": "Netflix",
+    "location": "Delhi",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-01-05",
+    "skills_required": [
+      "React",
+      "AWS",
+      "Node.js",
+      "Docker",
+      "Kubernetes",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 101,
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "salary": "\u20b912 LPA",
+    "posted_date": "2026-01-03",
+    "skills_required": [
+      "React",
+      "Node.js",
+      "Django",
+      "Kubernetes",
+      "Python",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 102,
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2026-02-25",
+    "skills_required": [
+      "CSS",
+      "HTML",
+      "Docker",
+      "React",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 103,
+    "title": "QA Engineer",
+    "company": "Meta",
+    "location": "Pune",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-02-19",
+    "skills_required": [
+      "React",
+      "Java",
+      "Kubernetes",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 104,
+    "title": "Software Engineer",
+    "company": "Amazon",
+    "location": "Mumbai",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-02-17",
+    "skills_required": [
+      "HTML",
+      "React",
+      "Docker",
+      "Python",
+      "SQL",
+      "Node.js"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 105,
+    "title": "UI/UX Designer",
+    "company": "Microsoft",
+    "location": "Mumbai",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-01-22",
+    "skills_required": [
+      "Python",
+      "Java",
+      "React",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 106,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-02-19",
+    "skills_required": [
+      "AWS",
+      "MongoDB",
+      "CSS",
+      "Kubernetes"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 107,
+    "title": "UI/UX Designer",
+    "company": "Meta",
+    "location": "Chennai",
+    "salary": "\u20b910 LPA",
+    "posted_date": "2025-12-30",
+    "skills_required": [
+      "Docker",
+      "SQL",
+      "Python",
+      "HTML",
+      "MongoDB",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 108,
+    "title": "Frontend Developer",
+    "company": "Amazon",
+    "location": "Bangalore",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2025-12-30",
+    "skills_required": [
+      "Java",
+      "CSS",
+      "SQL",
+      "Docker"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 109,
+    "title": "Backend Developer",
+    "company": "IBM",
+    "location": "Bangalore",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-14",
+    "skills_required": [
+      "Django",
+      "CSS",
+      "Kubernetes",
+      "Python"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 110,
+    "title": "Data Analyst",
+    "company": "Meta",
+    "location": "Pune",
+    "salary": "\u20b98 LPA",
+    "posted_date": "2026-01-12",
+    "skills_required": [
+      "Django",
+      "SQL",
+      "React"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 111,
+    "title": "Backend Developer",
+    "company": "Infosys",
+    "location": "Delhi",
+    "salary": "\u20b915 LPA",
+    "posted_date": "2025-12-28",
+    "skills_required": [
+      "MongoDB",
+      "Java",
+      "Kubernetes"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 112,
+    "title": "Data Analyst",
+    "company": "IBM",
+    "location": "Chennai",
+    "salary": "\u20b99 LPA",
+    "posted_date": "2026-01-25",
+    "skills_required": [
+      "MongoDB",
+      "Django",
+      "HTML",
+      "Kubernetes",
+      "Java",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 113,
+    "title": "Full Stack Developer",
+    "company": "Microsoft",
+    "location": "Bhubaneswar",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-02-10",
+    "skills_required": [
+      "Java",
+      "Docker",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 114,
+    "title": "Software Engineer",
+    "company": "Wipro",
+    "location": "Delhi",
+    "salary": "\u20b914 LPA",
+    "posted_date": "2026-02-25",
+    "skills_required": [
+      "SQL",
+      "Django",
+      "Python",
+      "Java",
+      "CSS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 115,
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Bangalore",
+    "salary": "\u20b913 LPA",
+    "posted_date": "2026-02-12",
+    "skills_required": [
+      "Django",
+      "React",
+      "AWS"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 116,
+    "title": "DevOps Engineer",
+    "company": "Netflix",
+    "location": "Bhubaneswar",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-01-22",
+    "skills_required": [
+      "Django",
+      "React",
+      "Docker",
+      "SQL",
+      "Java",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 117,
+    "title": "Frontend Developer",
+    "company": "TCS",
+    "location": "Delhi",
+    "salary": "\u20b95 LPA",
+    "posted_date": "2025-12-28",
+    "skills_required": [
+      "Node.js",
+      "AWS",
+      "React",
+      "HTML"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 118,
+    "title": "Data Analyst",
+    "company": "Microsoft",
+    "location": "Mumbai",
+    "salary": "\u20b911 LPA",
+    "posted_date": "2026-01-20",
+    "skills_required": [
+      "Kubernetes",
+      "MongoDB",
+      "CSS",
+      "AWS",
+      "SQL"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 119,
+    "title": "Mobile App Developer",
+    "company": "TCS",
+    "location": "Pune",
+    "salary": "\u20b97 LPA",
+    "posted_date": "2026-01-09",
+    "skills_required": [
+      "HTML",
+      "Django",
+      "Node.js",
+      "AWS",
+      "React",
+      "MongoDB"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  },
+  {
+    "id": 120,
+    "title": "Full Stack Developer",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "salary": "\u20b93 LPA",
+    "posted_date": "2026-02-17",
+    "skills_required": [
+      "React",
+      "SQL",
+      "CSS",
+      "AWS",
+      "Django"
+    ],
+    "description": "We are looking for talented professionals to join our growing team."
+  }
+]

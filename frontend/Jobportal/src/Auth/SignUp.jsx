@@ -1,9 +1,10 @@
 import React from 'react'
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { User, Mail, Lock, Upload } from "lucide-react";
+import { User, Mail, Lock } from "lucide-react";
 import toast from "react-hot-toast";
-import API from "../../api/axios";
+import API from "../api/axios.js";
+
 const SignUp = () => {
   const navigate = useNavigate();
 

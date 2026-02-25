@@ -5,16 +5,14 @@ const Hero = () => {
   const navigate = useNavigate();
 
   const handleFindJob = () => {
-    // Example job id = 1
-    navigate("/jobs/1");
+    navigate("/jobs");
   };
 
   return (
-    <section className="relative py-24 bg-gradient-to-br from-indigo-900 via-purple-900 to-blue-900 text-white overflow-hidden">
+    <section className="relative py-24 bg-linear-to-br from-indigo-900 via-purple-900 to-blue-900 text-white overflow-hidden">
       
       <div className="container mx-auto px-6 text-center">
 
-        {/* Heading */}
         <h1 className="text-4xl md:text-5xl font-bold mb-6">
           Find Your Dream Job Today
         </h1>
@@ -23,7 +21,6 @@ const Hero = () => {
           Discover thousands of opportunities and connect with top companies.
         </p>
 
-        {/* Find Job Button */}
         <button
           onClick={handleFindJob}
           className="bg-white text-indigo-700 px-8 py-3 rounded-full font-semibold shadow-lg hover:scale-105 transition duration-300"
@@ -31,7 +28,6 @@ const Hero = () => {
           Find Job
         </button>
 
-        {/* Feature Cards */}
         <div className="grid md:grid-cols-3 gap-8 mt-20">
 
           <div className="bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-8 hover:scale-105 transition duration-300 shadow-xl">
